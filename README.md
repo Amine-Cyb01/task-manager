@@ -19,4 +19,4 @@ Une application web simple pour gérer vos tâches quotidiennes.
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/task-manager.git
+   git clone https://github.com/Amine-Cyb01/task-manager.git
